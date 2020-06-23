@@ -5,7 +5,7 @@
 
 ### Descrição
 
-O algoritmo foi implementado utilizando uma máquina finita de estados, onde cada estado realiza uma tarefa específica. O robô faz uso de um sensor a laser, sonares, e uma bússola.
+O algoritmo foi implementado utilizando uma máquina finita de estados, onde cada estado realiza uma tarefa específica. O robô faz uso de um sensor a laser, sonares, e uma bússola, a fim de detectar objetos e corrigir sua direção.
 
 #### Notas
 - Dados os ponto iniciais dos 3 mapas, o robô consegue alcançar o seu destino com sucesso.
